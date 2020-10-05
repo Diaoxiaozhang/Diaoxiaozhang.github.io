@@ -8,4 +8,8 @@ title: About
 # MIT License
 ---
 
-> **Note**: Add Markdown syntax content to file `tabs/about.md` and it will show up on this page.
+bilibili凋小张qwq官方博客&资源库
+我的bilibili主页：https://space.bilibili.com/22071409
+我的QQ粉丝群：806051481 进群问题答案：凋小张
+
+PS：此网站还在开发中，如有意见可以通过QQ联系我，我的QQ号：1782591692
